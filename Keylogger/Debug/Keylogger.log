@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\keylogger\keylogger\source.cpp(32): warning C4715: 'teclaspulsadas': not all control paths return a value
+  Keylogger.vcxproj -> C:\Keylogger\Debug\Keylogger.exe
+  Keylogger.vcxproj -> C:\Keylogger\Debug\Keylogger.pdb (Partial PDB)
