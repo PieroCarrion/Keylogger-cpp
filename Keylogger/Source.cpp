@@ -29,6 +29,7 @@ bool teclaspulsadas(int tecla) {
 	default: return false;
 		break;
 	}
+	//TECLAS
 }
 int main() {
 	FreeConsole();
